@@ -1,0 +1,37 @@
+body {
+  background-color: #f4e8de;
+}
+
+.polimorf__flex {
+  display: flex;
+  gap: 0px 16px;
+  padding-left: 12px;
+  padding-top: 23px;
+}
+
+.polimorf__flex--right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px 0px;
+}
+
+.polimorf__flex--left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px 0px;
+}
+
+.polimorf__img--green_line {
+  margin-left: -50px;
+}
+
+.footer__flex {
+  margin-top: 476px;
+}
+
+.footer__flex--img {
+  display: flex;
+  gap: 0px 107px;
+  margin-top: 20px;
+  padding-left: 111px;
+}

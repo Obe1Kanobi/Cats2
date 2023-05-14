@@ -1,0 +1,38 @@
+.header__weight {
+  display: flex;
+  height: 54px;
+  background-color: rgba(167, 124, 93, 1);
+  align-items: center;
+}
+
+.header__weight--arrow {
+  margin-left: 11.25px;
+}
+
+.header__polimorf--img {
+  height: 22px;
+  width: 26px;
+  margin: 6.6px 6.6px;
+}
+
+.header__polimorf--border {
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+  border: 1px solid rgba(167, 124, 93, 1);
+  background-color: rgba(196, 196, 196, 1);
+  border-radius: 24px;
+  margin-left: 13px;
+  margin-bottom: 4px;
+}
+
+.header__weight--title {
+  margin-left: 12px;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.header__weight--pen {
+  margin-left: 205px;
+}

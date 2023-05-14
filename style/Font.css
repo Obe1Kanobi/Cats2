@@ -1,0 +1,22 @@
+.header__font {
+  font-family: "Roboto";
+  font-size: 24px;
+  line-height: 28.13px;
+  color: #332317;
+}
+
+.polimorf__text--name {
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 24px;
+  color: #332317;
+  letter-spacing: 0.5px;
+}
+
+.polimorf__text--value {
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  color: #332317;
+  letter-spacing: 0.3px;
+}
