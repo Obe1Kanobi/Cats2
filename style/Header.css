@@ -1,12 +1,13 @@
 .header__weight {
   display: flex;
-  height: 54px;
+  height: 56px;
   background-color: rgba(167, 124, 93, 1);
   align-items: center;
 }
 
 .header__weight--arrow {
-  margin-left: 11.25px;
+  margin-left: 11px;
+  margin-top: 5px;
 }
 
 .header__polimorf--img {
@@ -23,16 +24,16 @@
   border: 1px solid rgba(167, 124, 93, 1);
   background-color: rgba(196, 196, 196, 1);
   border-radius: 24px;
-  margin-left: 13px;
-  margin-bottom: 4px;
+  margin-left: 14px;
 }
 
 .header__weight--title {
   margin-left: 12px;
   letter-spacing: 0.5px;
-  margin-bottom: 4px;
+  margin-bottom: 2px;
 }
 
 .header__weight--pen {
-  margin-left: 205px;
+  margin-left: 203px;
+  margin-top: 5px;
 }
